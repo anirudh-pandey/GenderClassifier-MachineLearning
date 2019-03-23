@@ -1,5 +1,5 @@
 # GenderClassifier-MachineLearning
-In this classfier we classify the gender using two SVC(Support vector classifer) and Decision Tree. The accuracy level of the decision tree is better than SVC as seen by the output of the program.
+In this classfier we classify the gender using two methods: SVC(Support vector classifer) and Decision Tree. The accuracy level of the decision tree is better than SVC as seen by the output of the program.
 
 Prerequisites :- Libraries(sckit Learn) .
 
